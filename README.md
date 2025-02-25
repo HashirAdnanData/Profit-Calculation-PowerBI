@@ -11,7 +11,8 @@ This Power BI dashboard analyzes profit trends across different dimensions, incl
 
 **📸 Dashboard Preview**
 
-🔗 Check the full Power BI file: Profit-calculation-PowerBI.pbix
+🔗 Check the full Power BI file: 
+[App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiZDM2YWQ4ZWItN2FmNi00NDBhLTgzMjAtODdlYmUxOTJjZmQxIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
 
 
 
